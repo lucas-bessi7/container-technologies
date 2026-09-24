@@ -386,8 +386,6 @@ git clone https://github.com/gersontpc/containers-lab.git
 cd ~/containers-lab/Lab-04/02-cluster-eks/
 ```
 
-![](img/eks-app-01.png)
-
 Após clonar o repositório, na path /manifests, tem os manifestos para realizarmos o deploy.
 
 Antes iremos preparar o ambiente criando um namespace (isolamento lógico) `nginx` para podermos realizar o deploy da nossa app.
