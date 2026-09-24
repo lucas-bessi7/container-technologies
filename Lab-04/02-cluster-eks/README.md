@@ -382,8 +382,8 @@ Agora que já entendemos os principais componentes do Cluster, iremos realizar o
 
 ```
 cd ~/
-git clone https://github.com/gersontpc/containers.git
-cd ~/containers/Lab-05/02-cluster-eks/
+git clone https://github.com/gersontpc/containers-lab.git
+cd ~/containers-lab/Lab-04/02-cluster-eks/
 ```
 
 ![](img/eks-app-01.png)
